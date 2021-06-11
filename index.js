@@ -11,5 +11,5 @@ const mod = () => {
   return num3 % num4;
 };
 const max = () => {
-  return Math.max(  8, 19, 20 );
+  return Math.max(  1, 8, 19, 20 );
 }
