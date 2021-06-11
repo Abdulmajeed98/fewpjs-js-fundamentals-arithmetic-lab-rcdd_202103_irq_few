@@ -7,5 +7,7 @@ const multiply = () => {
 const random = Math.floor( Math.random() * 100 ) + 1;
 const n3 = 16;
 const n4 = 6;
-const mod = num3 % num4;
+const mod = () => {
+  return num3 % num4
+};
 const max = Math.max(  8, 19, 20 );
