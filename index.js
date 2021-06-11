@@ -1,15 +1,9 @@
 // Write your code here
-const n1 = 2;
-const n2 = 31;
-const multiply = () => {
-  return n1 * n2;
-};
-const random = Math.floor( Math.random() * 100 ) + 1;
-const n3 = 16;
-const n4 = 6;
-const mod = () => {
-  return num3 % num4;
-};
-const max = () => {
-  return Math.max(  1, 8, 19, 20 );
-}
+const num1 = 2;
+const num2 = 31;
+const multiply = num1 * num2;
+const random = Math.floor( Math.random() * 1000 ) + 1;
+const num3 = 16;
+const num4 = 6;
+const mod = num3 % num4;
+const max = Math.max( 5, 10, 15, 20 );
